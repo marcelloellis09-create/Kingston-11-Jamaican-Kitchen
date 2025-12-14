@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<!--FOR REFERENCE THIS IS ME LEARNING TO CODE HTML AS WELL AS THE SYNTAX, MAJORITY OF THIS WON'T STAY.-->
+
+
+
+<html>
+	<head>
+		<title>Kingston 11 Jamaican Kitchen</title>
+	</head>
+
+
+	<body>
+		<div class="Text">
+			<header>Welcome to Kingston 11 Jamaican Kitchen!</header>
+			<p>Place your order for catering here:</p>
+		</div>
+
+		<div class="Inputs">
+			<input type="text" id="Name" placeholder="Name">
+			<input type="checkbox" id="jerkchickencheckbox">
+			<label for="jerkchickencheckbox">Do you want jerk chicken?</label>
+			<input type="checkbox" id="jerkporkcheckbox">
+			<label for="jerkporkcheckbox">Do you want jerk pork?</label>
+			<button id="confirmorder">Confirm Order</button>
+		</div>
+	</body>
+
+</html>
