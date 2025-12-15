@@ -24,6 +24,7 @@
 			<label for="jerkporkcheckbox">Do you want jerk pork?</label>
 			<button id="confirmorder">Confirm Order</button>
 		</div>
+		<script src="Kingston11Main.js"></script>
 	</body>
 
 </html>
